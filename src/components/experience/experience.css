@@ -5,9 +5,8 @@
 }
 
 .experience__container>div {
-    padding-top: 2rem;
     background: var(--color-background-variant);
-    padding: 2.4rem 5 rem;
+    padding: 2rem;
     border-radius: 2rem;
     border: 1px solid transparent;
     transition: var(--transition);
