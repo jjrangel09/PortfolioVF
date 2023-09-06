@@ -56,9 +56,9 @@ const Portfolio = () => {
             <img src={IMG5} alt="description" />
           </div>
           <h3>"Titania RV Admin" - Backoffice for administration of 360° scenerios of Unity App</h3>
-          <div className="portfolio__item-cta">
+          {/* <div className="portfolio__item-cta">
             <a href="https://titaniavr.com" target="_blank" rel="noreferrer" className='button button-primary'>Visit site</a>
-          </div>
+          </div> */}
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
@@ -71,9 +71,9 @@ const Portfolio = () => {
             <img src={IMG7} alt="description" />
           </div>
           <h3>"Titania RV" - Application for ecosystems education</h3>
-          <div className="portfolio__item-cta">
+          {/* <div className="portfolio__item-cta">
           <a href="https://titaniavr.com" target="_blank" rel="noreferrer" className='button'>Visit site</a>
-          </div>
+          </div> */}
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">

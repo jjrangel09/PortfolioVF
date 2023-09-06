@@ -18,14 +18,14 @@ const Footer = () => {
         <li><a href="#contact">Contact</a></li>
       </ul>
       <div className="footer__socials">
-        <a href="https://www.linkedin.com" target="_blank" rel="noreferrer"><BsLinkedin /></a>
-        <a href="https://twitter.com" target="_blank" rel="noreferrer"><BsTwitter /></a>
-        <a href="https://github.com" target="_blank" rel="noreferrer"><BsGithub /></a>
+        <a href="www.linkedin.com/in/juanjoserangel" target="_blank" rel="noreferrer"><BsLinkedin /></a>
+        {/* <a href="https://twitter.com" target="_blank" rel="noreferrer"><BsTwitter /></a>
+        <a href="https://github.com" target="_blank" rel="noreferrer"><BsGithub /></a> */}
       </div>
 
       <div className="footer__copyright">
         <small>
-          Made with ❤️. 2022 &copy;
+          Made with ❤️ in ReactJS ⚛️. 2022 &copy;
         </small>
       </div>
     </section>

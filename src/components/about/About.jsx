@@ -28,7 +28,7 @@ const About = () => {
             <article className="about__card">
               <FaUsers className='about__icon' />
               <h5>Clients</h5>
-              <small>20+ in Colombia</small>
+              <small>10+ in Colombia</small>
             </article>
 
             <article className="about__card">
@@ -38,9 +38,15 @@ const About = () => {
             </article>
           </div>
 
-          <p>Systems Engineer, with experience in development and design of User Interfaces, Web Apis and technical documentation for projects, Functional Testing, 
-            application of SCRUM/KANBAN methodologies, JAVA, JAVASCRIPT, PHP, and HTML Markup and libraries/Frameworks such as React, Angular, Vue, Spring, NodeJs; 
-            with fast learning capacity, ability to work in a team and creativity/problem solving skills.
+          <p>Systems engineer with experience in development in programming languages 
+            (JAVA, JAVASCRIPT, TypeScript, PHP, Python), support, mentoring and codeReviews 
+            for junior and trainee developers; management of frameworks 
+            (Spring, React, Angular, Vue, NodeJs). Extensive knowledge in REST and SOAP, 
+            agile methodologies (SCRUM, KANBAN and XP), AWS technologies 
+            (Lambda Functions in Java and Python, CodeBuild, AWS SAM, XRay, IAM, RDS, EC2, CloudWatch), 
+            databases (AuroraDB, Postgres, SQL Server, MySQL) and extensive experience and knowledge 
+            in functional testing. Noted for solving complex challenges, fast learning and passion 
+            for excellence in software development. I am constantly updated in technologies and development methodologies.
           </p>
 
           <a href="#contact" className="button button-primary">Let's Talk</a>

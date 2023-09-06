@@ -3,6 +3,7 @@ import './contact.css'
 import {AiOutlineMail} from 'react-icons/ai'
 import {BsMessenger} from 'react-icons/bs'
 import {BsWhatsapp} from 'react-icons/bs'
+import {BsLinkedin} from 'react-icons/bs'
 import { useRef } from 'react';
 import emailjs from '@emailjs/browser';
 
@@ -48,13 +49,19 @@ const Contact = () => {
             <h5>+573004801412</h5>
             <a href="https://wa.me/+573004801412">Send a Message</a>
           </article>
+          <article className="contact__option">
+            <BsLinkedin className='contact__option-icon'/>
+            <h4>LinkedIn</h4>
+            <h5>Juan José Rangel</h5>
+            <a href="www.linkedin.com/in/juanjoserangel">LinkedIn Profile</a>
+          </article>
         </div>
-        <form ref={form} onSubmit={sendEmail}>
+        {/* <form ref={form} onSubmit={sendEmail}>
           <input type="text" name="name" placeholder='Your full Name' required/>
           <input type="email" name="email" placeholder='Your Email' required/>
           <textarea name="message" rows="7" placeholder='Your Message' required></textarea>
           <button type="submit" className='button button-primary'>Send Message</button>
-        </form>
+        </form> */}
       </div>
     </section>
   )
