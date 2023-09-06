@@ -56,11 +56,25 @@ input, textarea {
     .container.contact__container{
         gap: 2rem;
     }
+    .contact__options {
+        flex-direction: column;
+    }
+    .contact__option {
+        padding: 2rem;
+    }
 }
 
 @media screen and (max-width: 600px) {
     .container.contact__container {
         width: var(--container-width-sm);
+    }
+
+    .contact__options {
+        flex-direction: column;
+    }
+
+    .contact__option {
+        padding: 2rem;
     }
 
     input, textarea {
