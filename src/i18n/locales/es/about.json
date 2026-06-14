@@ -1,0 +1,19 @@
+{
+  "section_title": "Sobre mí",
+  "photo_alt": "Juan José Rangel",
+  "headline": "Engineering Lead impulsando la transformación de telco a fintech en Axexo — arquitectando plataformas de producto multi-marca, infraestructura crypto on-ramp/off-ramp y sistemas full-stack en Java, React y React Native. Arquitecto de Soluciones AWS certificado con historial comprobado de liderazgo de equipos multifuncionales y entrega a escala en fintech, telco y empresa.",
+  "stats": {
+    "years": {
+      "label": "años de\nexperiencia"
+    },
+    "companies": {
+      "label": "empresas\ncon las que trabajé"
+    },
+    "projects": {
+      "label": "proyectos\nentregados"
+    }
+  },
+  "certifications": {
+    "label": "Certificaciones"
+  }
+}

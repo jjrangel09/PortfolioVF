@@ -1,0 +1,41 @@
+{
+  "section_title": "Contact",
+  "headline": "Let's work together",
+  "subheadline": "Have a project in mind, a question, or just want to say hello? Send me a message and I'll get back to you as soon as I can.",
+  "form": {
+    "name": {
+      "label": "Your name",
+      "placeholder": "John Doe"
+    },
+    "email": {
+      "label": "Your email",
+      "placeholder": "you@example.com"
+    },
+    "message": {
+      "label": "Message",
+      "placeholder": "Tell me about your project…"
+    },
+    "submit": "Send message",
+    "sending": "Sending…",
+    "reset": "Send another message",
+    "success": {
+      "title": "Message sent!",
+      "body": "Thanks for reaching out. I'll be in touch soon."
+    },
+    "error": {
+      "title": "Something went wrong",
+      "body": "The message couldn't be sent. Please try again or use a direct link below."
+    },
+    "validation": {
+      "required": "This field is required",
+      "email_invalid": "Please enter a valid email address"
+    }
+  },
+  "links": {
+    "title": "Or reach out directly",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "linkedin": "LinkedIn",
+    "messenger": "Messenger"
+  }
+}

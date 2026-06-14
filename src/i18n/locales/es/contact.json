@@ -1,0 +1,41 @@
+{
+  "section_title": "Contacto",
+  "headline": "Trabajemos juntos",
+  "subheadline": "¿Tienes un proyecto en mente, una pregunta, o simplemente quieres saludar? Envíame un mensaje y te responderé lo antes posible.",
+  "form": {
+    "name": {
+      "label": "Tu nombre",
+      "placeholder": "Juan Pérez"
+    },
+    "email": {
+      "label": "Tu correo",
+      "placeholder": "tu@ejemplo.com"
+    },
+    "message": {
+      "label": "Mensaje",
+      "placeholder": "Cuéntame sobre tu proyecto…"
+    },
+    "submit": "Enviar mensaje",
+    "sending": "Enviando…",
+    "reset": "Enviar otro mensaje",
+    "success": {
+      "title": "¡Mensaje enviado!",
+      "body": "Gracias por escribirme. Te respondo pronto."
+    },
+    "error": {
+      "title": "Algo salió mal",
+      "body": "El mensaje no pudo enviarse. Intenta de nuevo o usa un enlace directo."
+    },
+    "validation": {
+      "required": "Este campo es requerido",
+      "email_invalid": "Por favor ingresa un correo válido"
+    }
+  },
+  "links": {
+    "title": "O contáctame directamente",
+    "email": "Correo electrónico",
+    "whatsapp": "WhatsApp",
+    "linkedin": "LinkedIn",
+    "messenger": "Messenger"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "section_title": "Projects",
+  "other_label": "Other work",
+  "links": {
+    "live": "Live site",
+    "demo": "Watch demo",
+    "repo": "Source"
+  },
+  "axexo-app": {
+    "title": "Axexo App",
+    "desc": "Designed and architected the Axexo consumer app — a fintech platform featuring business verticals, an integrated stablecoin wallet, and crypto on-ramp/off-ramp flows (MXN ↔ USDT) bringing financial inclusion to underbanked segments across Latin America."
+  },
+  "mbx-app": {
+    "title": "MBX — B2B Mobile App",
+    "desc": "Architected and led development of MBX, Axexo's B2B mobile application for field sales agents — enabling real-time transaction processing, account management, and product distribution built in React Native for Android and iOS."
+  },
+  "disney-globant": {
+    "title": "My Disney Experience — Test Automation",
+    "desc": "Maintained the mobile test automation suite (Appium/Java) for My Disney Experience — Disney's flagship resort app — covering critical guest-facing booking and park navigation flows integrated directly into the client CI pipeline."
+  },
+  "1000-historias": {
+    "title": "1000 y Una Historias",
+    "desc": "Designed and QA-tested an interactive Unity game shipped as a WebGL experience for nursing education — bridging game design and structured manual testing to deliver a production-ready learning tool."
+  },
+  "1000-historias-ar": {
+    "title": "1000 y Una Historias — AR",
+    "desc": "Extended the educational game with augmented reality using Unity AR Foundation, enabling immersive mobile storytelling layered over the physical environment."
+  },
+  "titania-rv-admin": {
+    "title": "Titania VR Admin",
+    "desc": "Built the content management backoffice for a 360° Unity VR platform, allowing non-technical editors to update scene assets and configurations without touching source files."
+  },
+  "instapay-portal": {
+    "title": "InstaPay Portal",
+    "desc": "Maintained and extended the InstaPay web portal — Emida's retail-facing distribution platform enabling point-of-sale agents to top up mobile credits, pay services, and manage transactions across telecom and utility providers."
+  },
+  "1000-historias-backoffice": {
+    "title": "1000 y Una Historias — Backoffice",
+    "desc": "Wireframed the administrative layer for the AR project's content pipeline, defining information architecture and interaction patterns for the content management interface."
+  },
+  "ssl-colombia": {
+    "title": "SSL Colombia",
+    "desc": "Designed UX and wireframes for the custom Moodle-based backoffice of an e-learning platform, covering information architecture through annotated Adobe XD prototypes."
+  },
+  "edingenieriaeng": {
+    "title": "ED Ingeniería",
+    "desc": "Built a React + Node.js web application for calculating and dimensioning electrical structures, designed for field engineers with complex multi-variable input workflows."
+  },
+  "titania-rv": {
+    "title": "Titania VR",
+    "desc": "Developed a 360° VR application in Unity for ecosystem and environmental education, delivering immersive classroom experiences without requiring dedicated VR hardware."
+  },
+  "gou": {
+    "title": "GoU — Carpooling",
+    "desc": "Designed and built a carpooling platform across web and Android, including real-time route matching, ride requests, and user authentication flows."
+  }
+}

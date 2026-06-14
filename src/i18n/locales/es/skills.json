@@ -1,0 +1,13 @@
+{
+  "section_title": "Skills",
+  "learning_badge": "aprendiendo",
+  "categories": {
+    "backend":  { "label": "Backend" },
+    "frontend": { "label": "Frontend" },
+    "mobile":   { "label": "Mobile" },
+    "cloud":    { "label": "Cloud y Arquitectura" },
+    "testing":  { "label": "Testing y QA" },
+    "tools":    { "label": "Herramientas y DevOps" },
+    "web3":     { "label": "Crypto y Web3" }
+  }
+}

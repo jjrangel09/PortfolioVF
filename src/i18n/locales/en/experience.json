@@ -1,0 +1,62 @@
+{
+  "section_title": "Experience",
+  "present": "Present",
+  "types": {
+    "fulltime": "Full-time",
+    "contract": "Contract",
+    "freelance": "Freelance"
+  },
+  "axexo": {
+    "title": "Engineering Lead",
+    "desc": [
+      "Led the engineering team through a full fintech transformation — modernising the platform core, redefining architectural standards, and reshaping telecom-era products into financial services.",
+      "Designed end-to-end solution and software architecture for the product suite: SalesPortal (B2B sales portal, live in production), MBX (B2B mobile app), and the Axexo app featuring business verticals and an integrated wallet.",
+      "Architected crypto-powered financial inclusion: on-ramp/off-ramp flows enabling local currency ↔ stablecoin conversion (e.g. MXN → USDT) and an integrated wallet, extending banking access to underserved segments.",
+      "Established a multi-brand / multi-flavour architecture to scale the product across several brands from a shared codebase — owning code reviews and architectural standards definition."
+    ]
+  },
+  "seti": {
+    "title": "Solutions Architect",
+    "desc": [
+      "Embedded Solutions Architect for Bancolombia within the Credit Cycle value stream (EVC), defining solution architectures across credit-domain bounded contexts for one of Colombia's largest financial institutions.",
+      "Collaborated with cross-functional squads to establish technical standards, integration blueprints, and architectural decision records governing the credit lifecycle platform."
+    ]
+  },
+  "emida": {
+    "title": "Software Developer",
+    "desc": [
+      "Architected the migration from a Java/Vue monolith to event-driven microservices on AWS Lambda, ECS/EKS, and AuroraDB — enabling independent scaling per service and eliminating shared-database coupling.",
+      "Led the frontend rewrite from Vue to React + TypeScript, establishing component patterns and review standards the team adopted org-wide.",
+      "Designed REST and SOAP integration layers connecting internal systems to third-party payment services, deployed and operated on AWS API Gateway and ECS."
+    ]
+  },
+  "globant": {
+    "title": "Test Automation Engineer",
+    "desc": [
+      "Built and maintained mobile test automation (Appium/Java) for the Disney Resort App, covering critical guest-facing booking flows integrated directly into the client CI pipeline.",
+      "Delivered web regression coverage (Selenium/Java) for ESPN and API contract tests (REST Assured/Java) for AutoDesk's backend — both shipped into client regression suites reducing manual test cycles."
+    ]
+  },
+  "unisys": {
+    "title": "Software & RPA Developer",
+    "desc": [
+      "Automated high-volume back-office workflows using UiPath RPA, replacing manual processing cycles and cutting operational overhead.",
+      "Migrated a legacy EAE interface layer to Spring Boot + PostgreSQL, modernising the data access layer and significantly improving maintainability.",
+      "Delivered backend features and integrations for the CINCO information system across service and data layers."
+    ]
+  },
+  "gaira-tester": {
+    "title": "Functional Tester",
+    "desc": [
+      "Owned the full test lifecycle for 5 government digital products (MinCiencias, MinTIC) across web and Android — from test plan authorship to stakeholder sign-off in controlled environments.",
+      "Authored test plans adopted as the quality baseline for project handoffs, enabling client teams to onboard with zero rework."
+    ]
+  },
+  "gaira-docs": {
+    "title": "Documentation Executive",
+    "desc": [
+      "Bridged business stakeholders and engineering by translating requirements into wireframes (Adobe XD), reducing miscommunication-driven rework during development sprints.",
+      "Conducted AngularJS code reviews and managed production deployments to AWS EC2 + RDS, owning end-to-end release responsibility from review to go-live."
+    ]
+  }
+}

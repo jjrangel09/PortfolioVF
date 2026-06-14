@@ -1,0 +1,57 @@
+{
+  "section_title": "Proyectos",
+  "other_label": "Otros trabajos",
+  "links": {
+    "live": "Ver sitio",
+    "demo": "Ver demo",
+    "repo": "Código"
+  },
+  "axexo-app": {
+    "title": "Axexo App",
+    "desc": "Diseñé y arquitecté la app para consumidores de Axexo — una plataforma fintech con verticales de negocio, wallet de stablecoin integrada y flujos crypto on-ramp/off-ramp (MXN ↔ USDT) que acercan la inclusión financiera a segmentos no bancarizados en Latinoamérica."
+  },
+  "mbx-app": {
+    "title": "MBX — App B2B Móvil",
+    "desc": "Arquitecté y lideré el desarrollo de MBX, la app B2B de Axexo para agentes de campo — habilitando procesamiento de transacciones en tiempo real, gestión de cuentas y distribución de productos, construida en React Native para Android e iOS."
+  },
+  "disney-globant": {
+    "title": "My Disney Experience — Automatización de Pruebas",
+    "desc": "Mantuve la suite de automatización de pruebas móviles (Appium/Java) para My Disney Experience — la app insignia de resorts de Disney — cubriendo flujos críticos de reserva y navegación en parques, integrada al pipeline CI del cliente."
+  },
+  "1000-historias": {
+    "title": "1000 y Una Historias",
+    "desc": "Diseñé y apliqué QA a un juego interactivo en Unity publicado como experiencia WebGL para educación en enfermería — conectando diseño de juego y pruebas manuales estructuradas para entregar una herramienta educativa lista para producción."
+  },
+  "1000-historias-ar": {
+    "title": "1000 y Una Historias — RA",
+    "desc": "Extendí el juego educativo con realidad aumentada usando Unity AR Foundation, habilitando narrativas inmersivas en móvil superpuestas sobre el entorno físico."
+  },
+  "titania-rv-admin": {
+    "title": "Titania VR Admin",
+    "desc": "Construí el backoffice de gestión de contenido para una plataforma VR 360° en Unity, permitiendo a editores no técnicos actualizar assets y configuraciones de escena sin tocar el código fuente."
+  },
+  "instapay-portal": {
+    "title": "InstaPay Portal",
+    "desc": "Mantuve y extendí el portal web InstaPay — la plataforma de distribución de Emida orientada a puntos de venta — habilitando a agentes minoristas para recargar crédito móvil, pagar servicios y gestionar transacciones con proveedores de telecomunicaciones y utilities."
+  },
+  "1000-historias-backoffice": {
+    "title": "1000 y Una Historias — Backoffice",
+    "desc": "Diseñé wireframes para la capa administrativa del pipeline de contenido del proyecto AR, definiendo la arquitectura de información y los patrones de interacción de la interfaz de gestión."
+  },
+  "ssl-colombia": {
+    "title": "SSL Colombia",
+    "desc": "Diseñé UX y wireframes para el backoffice de una plataforma e-learning sobre Moodle, cubriendo desde la arquitectura de información hasta prototipos anotados en Adobe XD."
+  },
+  "edingenieriaeng": {
+    "title": "ED Ingeniería",
+    "desc": "Desarrollé una aplicación web React + Node.js para el cálculo y dimensionamiento de estructuras eléctricas, orientada a ingenieros de campo con flujos de entrada multivariable complejos."
+  },
+  "titania-rv": {
+    "title": "Titania VR",
+    "desc": "Desarrollé una aplicación VR 360° en Unity para educación sobre ecosistemas y medio ambiente, entregando experiencias inmersivas en el aula sin requerir hardware VR dedicado."
+  },
+  "gou": {
+    "title": "GoU — Carpooling",
+    "desc": "Diseñé y construí una plataforma de carpooling para web y Android, incluyendo emparejamiento de rutas en tiempo real, solicitudes de viaje y flujos de autenticación de usuarios."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "section_title": "Experiencia",
+  "present": "Presente",
+  "types": {
+    "fulltime": "Tiempo completo",
+    "contract": "Contrato",
+    "freelance": "Freelance"
+  },
+  "axexo": {
+    "title": "Engineering Lead / Líder de Ingeniería",
+    "desc": [
+      "Lideré el equipo de ingeniería a través de una transformación fintech completa — modernizando el núcleo de la plataforma, redefiniendo estándares arquitectónicos y transformando productos telco en servicios financieros.",
+      "Diseñé la arquitectura de solución y de software end-to-end para el ecosistema de productos: SalesPortal (portal de ventas B2B, en producción), MBX (app B2B móvil) y la app Axexo con verticales de negocio y wallet integrada.",
+      "Arquitecté capacidades de inclusión financiera vía crypto: flujos on-ramp/off-ramp para conversión de moneda local ↔ stablecoin (ej. MXN → USDT) y wallet integrada, extendiendo el acceso bancario a segmentos no bancarizados.",
+      "Definí arquitectura multi-marca/multi-flavor para escalar el producto a varias marcas desde una base de código común, con ownership de code reviews y estándares arquitectónicos."
+    ]
+  },
+  "seti": {
+    "title": "Arquitecto de Soluciones",
+    "desc": [
+      "Arquitecto de Soluciones embebido en la EVC (Estación de Valor) del Ciclo de Crédito de Bancolombia — diseñando arquitecturas de solución para los contextos del dominio de crédito de una de las instituciones financieras más grandes de Colombia.",
+      "Colaboré con squads multifuncionales para definir estándares técnicos, blueprints de integración y registros de decisiones arquitectónicas que rigen la plataforma del ciclo de crédito."
+    ]
+  },
+  "emida": {
+    "title": "Desarrollador de Software",
+    "desc": [
+      "Arquitecté la migración de un monolito Java/Vue a microservicios basados en eventos sobre AWS Lambda, ECS/EKS y AuroraDB — habilitando escalamiento independiente por servicio y eliminando el acoplamiento de base de datos compartida.",
+      "Lideré la reescritura del frontend de Vue a React + TypeScript, estableciendo patrones de componentes y estándares de code review adoptados en toda la organización.",
+      "Diseñé capas de integración REST y SOAP entre sistemas internos y servicios de pago de terceros, desplegadas y operadas sobre AWS API Gateway y ECS."
+    ]
+  },
+  "globant": {
+    "title": "Ingeniero de Automatización de Pruebas",
+    "desc": [
+      "Construí y mantuve automatización de pruebas móviles (Appium/Java) para la Disney Resort App, cubriendo flujos críticos de reserva integrados directamente en el pipeline CI del cliente.",
+      "Entregué cobertura de regresión web (Selenium/Java) para ESPN y pruebas de contrato API (REST Assured/Java) para el backend de AutoDesk — ambas incorporadas a suites de regresión del cliente, reduciendo ciclos de prueba manuales."
+    ]
+  },
+  "unisys": {
+    "title": "Desarrollador de Software y RPA",
+    "desc": [
+      "Automaticé flujos de back-office de alto volumen con UiPath RPA, reemplazando ciclos de procesamiento manual y reduciendo la carga operativa.",
+      "Migré una capa de interfaces EAE heredada a Spring Boot + PostgreSQL, modernizando el acceso a datos y mejorando significativamente la mantenibilidad.",
+      "Entregué funcionalidades e integraciones para el sistema de información CINCO en capas de servicios y datos."
+    ]
+  },
+  "gaira-tester": {
+    "title": "Tester Funcional",
+    "desc": [
+      "Lideré el ciclo completo de pruebas para 5 productos digitales gubernamentales (MinCiencias, MinTIC) en web y Android — desde la redacción de planes hasta la aprobación por stakeholders en ambientes controlados.",
+      "Redacté planes de prueba adoptados como línea base de calidad para las entregas, permitiendo a los equipos del cliente incorporarlos sin retrabajo."
+    ]
+  },
+  "gaira-docs": {
+    "title": "Ejecutivo de Documentación",
+    "desc": [
+      "Conecté stakeholders de negocio e ingeniería traduciendo requisitos en wireframes (Adobe XD), reduciendo el retrabajo por malentendidos durante los sprints de desarrollo.",
+      "Realicé code reviews en AngularJS y gestioné despliegues a producción en AWS EC2 + RDS, asumiendo responsabilidad de extremo a extremo desde la revisión hasta el go-live."
+    ]
+  }
+}

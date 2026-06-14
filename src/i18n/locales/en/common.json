@@ -1,0 +1,31 @@
+{
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "experience": "Experience",
+    "projects": "Projects",
+    "contact": "Contact",
+    "menu_open": "Open menu",
+    "menu_close": "Close menu",
+    "aria_dialog": "Main navigation"
+  },
+  "footer": {
+    "tagline": "Engineering Lead · Fullstack · AWS",
+    "copyright": "© {{year}} Juan José Rangel. All rights reserved.",
+    "nav_label": "Footer navigation",
+    "socials_label": "Social links"
+  },
+  "lang": {
+    "toggle_label": "Switch language",
+    "en": "EN",
+    "es": "ES"
+  },
+  "availability": "Available for new opportunities",
+  "download_cv": "Download CV",
+  "get_in_touch": "Get in touch",
+  "view_project": "View project",
+  "view_repo": "View repo",
+  "view_demo": "Demo",
+  "present": "Present",
+  "learning": "Learning"
+}
