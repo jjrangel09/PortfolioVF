@@ -65,17 +65,17 @@ export function Hero() {
         </p>
 
         {/* Availability badge */}
-        {hero.availableForWork && (
-          <div className="flex items-center gap-2 mb-10">
-            <span className="relative flex h-2.5 w-2.5">
+        <div className="flex items-center gap-2 mb-10">
+          <span className="relative flex h-2.5 w-2.5">
+            {hero.availableForWork && (
               <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-accent opacity-60" />
-              <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-accent" />
-            </span>
-            <span className="font-mono text-xs text-accent tracking-wide">
-              {tc('availability')}
-            </span>
-          </div>
-        )}
+            )}
+            <span className={`relative inline-flex rounded-full h-2.5 w-2.5 ${hero.availableForWork ? 'bg-accent' : 'bg-red-500'}`} />
+          </span>
+          <span className={`font-mono text-xs tracking-wide ${hero.availableForWork ? 'text-accent' : 'text-red-400'}`}>
+            {hero.availableForWork ? tc('availability') : tc('not_available')}
+          </span>
+        </div>
 
         {/* CTAs */}
         <div className="flex flex-wrap gap-4 mb-14">

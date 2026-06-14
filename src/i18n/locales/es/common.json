@@ -21,6 +21,7 @@
     "es": "ES"
   },
   "availability": "Disponible para nuevas oportunidades",
+  "not_available": "No disponible para nuevas oportunidades",
   "download_cv": "Descargar CV",
   "get_in_touch": "Hablemos",
   "view_project": "Ver proyecto",

@@ -6,7 +6,7 @@ const CV_URL = '/src/assets/CV-Juan_Jose_Rangel.pdf'
 export const heroData: HeroData = {
   name: 'Juan José Rangel',
   avatarUrl: null, // TODO: '/src/assets/me2.png' cuando el diseño del avatar esté listo
-  availableForWork: true,
+  availableForWork: false,
   cvUrl: CV_URL,
   socials: [
     {
